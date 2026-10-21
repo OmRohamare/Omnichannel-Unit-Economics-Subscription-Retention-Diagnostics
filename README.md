@@ -1,0 +1,2 @@
+# Omnichannel-Unit-Economics-Subscription-Retention-Diagnostics
+Omnichannel unit economics &amp; subscription retention analytics: Adapting IIM Ahmedabad's Arvind Fashions business case to KALPA multi-channel commerce &amp; membership data. Features an end-to-end Python P&amp;L waterfall, segment-adjusted spend multiples, censoring-corrected cohorts, and event telemetry churn diagnostics for strategic management decisions.
